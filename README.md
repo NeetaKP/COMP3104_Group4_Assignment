@@ -4,7 +4,7 @@
 - **Leader:** Neeta () - [GitHub]()
 - **Member 2:** Jaeden Salandanan (101324631) - [GitHub](https://github.com/Juiceir)
 - **Member 3:** Adam () - [GitHub]()
-- 
+  
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on
 collaborative Git workflows, branching strategies, and CI/CD integration.
