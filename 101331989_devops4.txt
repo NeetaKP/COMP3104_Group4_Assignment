@@ -1,0 +1,1 @@
+Before, the testing and deployment were done after the building an application and it used to consume more time than estimated.Also, team used to spent more time in deployement and tesing instead of building the application. 
