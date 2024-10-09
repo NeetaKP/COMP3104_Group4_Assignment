@@ -1,7 +1,7 @@
 # COMP3104_Group4_Assignment
 
 ## Group Members
-- **Leader:** Neeta () - [GitHub]()
+- **Leader:** Neeta (101331989) - [GitHub](https://github.com/NeetaKP)
 - **Member 2:** Jaeden Salandanan (101324631) - [GitHub](https://github.com/Juiceir)
 - **Member 3:** Adam () - [GitHub]()
   
