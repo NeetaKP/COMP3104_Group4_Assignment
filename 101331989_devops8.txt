@@ -1,0 +1,2 @@
+Docker is similar to virtual environment in which we can create an entire server and deploy the artifacts.
+
