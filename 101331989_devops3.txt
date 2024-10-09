@@ -1,0 +1,1 @@
+DevOps is the collaboration between Development and IT operation to make the implementation and production of the software automated.
