@@ -1,0 +1,1 @@
+Deployment process is automated, so using the right tool engineers can save time on deployment and focus more on production/coding
