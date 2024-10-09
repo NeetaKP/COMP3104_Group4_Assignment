@@ -1,0 +1,1 @@
+DevOps focuses on the constant testing and delivery of the application.
