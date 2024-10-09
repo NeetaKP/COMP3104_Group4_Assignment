@@ -1,0 +1,1 @@
+SDLC phases are: requirement collection and analysis, feasibility study, design, coding, testing, deployment and maintenance
