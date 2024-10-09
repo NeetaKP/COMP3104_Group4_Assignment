@@ -1,0 +1,1 @@
+DevOps movement started around 2008, when the desktop application were being replaced by mobile and application, and the big companies started to provide SAAS as a service instead of providing CD and DVDs
