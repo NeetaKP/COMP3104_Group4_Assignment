@@ -1,2 +1,3 @@
 Continuous Integration (CI) helps ensure code quality and reliability.
 Automated testing is a crucial part of the software development lifecycle.
+DevOps integrates well with agile software development practices.
