@@ -1,2 +1,3 @@
 The DevOps course covers various tools and methodologies.
 Key tools in DevOps include Docker, Jenkins, and Kubernetes.
+DevOps bridges the gap between development and operations teams.
